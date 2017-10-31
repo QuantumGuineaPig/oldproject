@@ -21,9 +21,9 @@ public class DecrementArrow extends Actor
 
 
         if (Greenfoot.mouseClicked(this)== true){
-            //increase number count
-            //number = number + 1;
-            //setNumber(number); //does not work
+            increase number count
+            number = number + 1;
+            setNumber(number); //does not work
             clicked = true;
         }
     }    
