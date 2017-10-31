@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=radius\ c
+comment0.target=Circle(int,\ java.awt.Color)
+comment1.params=
+comment1.target=int\ getRadius()
+comment2.params=
+comment2.target=double\ getExactX()
+comment3.params=
+comment3.target=double\ getExactY()
+comment4.params=x\ y
+comment4.target=void\ setExactLocation(double,\ double)
+comment5.params=x\ y
+comment5.target=void\ setLocation(int,\ int)
+numComments=6

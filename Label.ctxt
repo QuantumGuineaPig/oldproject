@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=value\ fontSize
+comment0.target=Label(java.lang.String,\ int)
+comment1.params=
+comment1.target=int\ getNumber()
+comment2.params=
+comment2.target=double\ getNum()
+comment3.params=newNum
+comment3.target=void\ setNum(java.lang.String)
+comment4.params=newNumber
+comment4.target=void\ setNumber(java.lang.String)
+comment5.params=
+comment5.target=void\ updateImage()
+numComments=6
