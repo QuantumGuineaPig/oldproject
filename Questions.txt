@@ -1,0 +1,58 @@
+Mass of Ball 1: 1
+Mass of Ball 2: 1
+Initial Velocity of Ball 1: 5
+Height: 0
+Horizontal Distance from Ball 1 to Ball 2: 400.0
+Coefficient of Restitution: 0.0
+What is the final velocity of Ball 1?
+
+Mass of Ball 1: 1
+Mass of Ball 2: 1
+Initial Velocity of Ball 1: 5
+Height: 0
+Horizontal Distance from Ball 1 to Ball 2: 400.0
+Coefficient of Restitution: 0.0
+What is the final velocity of Ball 1?
+
+Ball 1 has a mass of 1 and a velocity of 5. Ball 1 collides elastically with a stationary Ball 2 which has a mass of 1. What is the final velocity of Ball 1?
+
+Ball 1 has a mass of 1and collides inelastically at a velocity of 5 with Ball 2 which has a mass of 1. What is the final velocity of Ball 1?
+
+Ball 1 has a mass of 1 and explodes  with Ball 2 which has a mass of 1. What is the final velocity of Ball 1?
+
+Mass of Ball 1: 1
+Mass of Ball 2: 1
+Initial Velocity of Ball 1: 5
+Height: 0
+Horizontal Distance from Ball 1 to Ball 2: 400.0
+Coefficient of Restitution: 0.5
+What is the final velocity of Ball 1?
+
+Ball 1 has a mass of 1and collides inelastically at a velocity of 10 with Ball 2 which has a mass of 10. What is the final velocity of Ball 1?
+
+Mass of Ball 1: 2
+Mass of Ball 2: 1
+Initial Velocity of Ball 1: 7
+Height: 13
+Horizontal Distance from Ball 1 to Ball 2: 400.0
+Coefficient of Restitution: 0.61
+What is the final velocity of Ball 1?
+
+Ball 1 has a mass of 1and collides inelastically at a velocity of 5 with Ball 2 which has a mass of 1. What is the final velocity of Ball 1?
+
+Ball 1 has a mass of 1 and a velocity of 5. Ball 1 collides elastically with a stationary Ball 2 which has a mass of 1. What is the final velocity of Ball 1?
+
+Ball 1 has a mass of 1 and a velocity of 2. Ball 1 collides elastically with a stationary Ball 2 which has a mass of 1. What is the final velocity of Ball 1?
+
+Ball 1 has a mass of 1 and a velocity of 10. Ball 1 collides elastically with a stationary Ball 2 which has a mass of 1. What is the final velocity of Ball 1?
+
+Ball 1 has a mass of 1 and a velocity of 5. Ball 1 collides elastically with a stationary Ball 2 which has a mass of 1. What is the final velocity of Ball 1?
+
+Ball 1 has a mass of 1and collides inelastically at a velocity of 5 with Ball 2 which has a mass of 1. What is the final velocity of Ball 1?
+
+Ball 1 has a mass of 3and collides inelastically at a velocity of 10 with Ball 2 which has a mass of 2. What is the final velocity of Ball 1?
+
+Ball 1 has a mass of 3and collides inelastically at a velocity of 3 with Ball 2 which has a mass of 1. What is the final velocity of Ball 1?
+
+Ball 1 has a mass of 1 and a velocity of 5. Ball 1 collides elastically with a stationary Ball 2 which has a mass of 1. What is the final velocity of Ball 1?
+

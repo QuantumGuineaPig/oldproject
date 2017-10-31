@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CircleWorld()
+comment1.params=
+comment1.target=void\ act()
+comment10.params=
+comment10.target=void\ stopped()
+comment2.params=b
+comment2.target=void\ applyFriction(RedBall)
+comment3.params=
+comment3.target=void\ elastic()
+comment4.params=
+comment4.target=void\ inelastic()
+comment5.params=
+comment5.target=void\ custom()
+comment6.params=
+comment6.target=void\ explosion()
+comment7.params=b
+comment7.target=boolean\ collideBalls(RedBall)
+comment8.params=x\ y\ xAlong\ yAlong
+comment8.target=double\ distAlong(double,\ double,\ double,\ double)
+comment9.params=
+comment9.target=void\ write()
+numComments=11
